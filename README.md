@@ -8,7 +8,7 @@ This submission focuses on pixel accuracy, responsiveness, clean architecture, p
 
 | Type | Link |
 |------|------|
-| **Vercel Deployment** | [https://codedale-frontend-task.vercel.app](https://codedale-frontend-task.vercel.app) |
+| **Vercel Deployment** | [https://frontend-developer-task-one.vercel.app](https://frontend-developer-task-one.vercel.app) |
 | **GitHub Repository** | [https://github.com/Madhukar04012/FRONTEND-DEVELOPER-TASK-](https://github.com/Madhukar04012/FRONTEND-DEVELOPER-TASK-) |
 
 ---
